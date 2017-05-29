@@ -1,0 +1,23 @@
+
+Date: 04/18/2011  time: 11:50:46 AM
+Compile:
+CC1_17_04_2011\SIMATIC 300\Hardware
+-> Object was compiled without errors
+
+
+Date: 04/18/2011  time: 11:50:49 AM
+Compile:
+CC1_17_04_2011\SIMATIC 300\CPU 315-2 DP\S7 Program\Blocks
+-> Error occurred compiling the object
+
+FC32  [LAD]
+Warning: The creation application has opened a block or a source file, or is currently busy.
+Error: The S7 program still contains the following blocks with time stamp conflicts after compilation:
+FC32
+
+
+Date: 04/18/2011  time: 11:50:55 AM
+Compile:
+CC1_17_04_2011\SIMATIC 300\CPU 315-2 DP\Connections
+-> Object was compiled without errors
+

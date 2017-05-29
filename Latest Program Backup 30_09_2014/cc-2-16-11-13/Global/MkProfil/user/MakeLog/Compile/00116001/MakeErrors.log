@@ -1,0 +1,4 @@
+FC32  [LAD]
+Warning: The creation application has opened a block or a source file, or is currently busy.
+Error: The S7 program still contains the following blocks with time stamp conflicts after compilation:
+FC32

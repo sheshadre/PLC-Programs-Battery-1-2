@@ -1,0 +1,15 @@
+$Version1
+00000000 0 0 0 0 0 Date:  04/18/2011  Time:  11:50:51 AM
+00000000 0 0 0 0 0 Compile...
+00000000 0 0 0 0 0 CC1_17_04_2011\SIMATIC 300\CPU 315-2 DP\...\Blocks
+00000000 0 0 0 0 0 Start Compilation...
+10000000 0 0 0 0 0   FC32  [LAD]
+$OD: 116102 7b 116001 1 112001 7f
+42000000 0 0 0 0 0 The creation application has opened a block or a source file, or is currently busy.
+3 C:\Program Files\Siemens\Step7\s7umk\s7umkehb.hlp
+$ENDOD
+$ENDOD
+00000000 0 0 0 0 0 0 Error(s), 1 Warning(s)
+80000000 0 0 0 0 0 The S7 program still contains the following blocks with time stamp conflicts after compilation:
+10000000 0 0 0 0 0 FC32
+00000000 0 0 0 0 0 

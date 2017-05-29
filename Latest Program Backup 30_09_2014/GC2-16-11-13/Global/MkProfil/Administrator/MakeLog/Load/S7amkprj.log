@@ -1,0 +1,16 @@
+
+Date: 09/21/2013  time: 10:03:02 PM
+Download:
+COB#1&2_GC#2_07_12_2012\SIMATIC 300 - BEC\Hardware
+-> Error occurred downloading the object
+
+ System data download to station SIMATIC 300 - BEC is not being executed because test functions are still active in module CPU 315-2 DP (racks 0, slot 2).
+
+
+Date: 09/21/2013  time: 10:03:04 PM
+Download:
+COB#1&2_GC#2_07_12_2012\SIMATIC 300 - BEC\CPU 315-2 DP\Connections
+-> Object download was executed (with warnings)
+
+ System data download to station SIMATIC 300 - BEC is not being executed because test functions are still active in module CPU 315-2 DP (racks 0, slot 2).
+
